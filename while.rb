@@ -5,3 +5,4 @@ def spell
   levitation_force += 1
 end
 end
+spell
